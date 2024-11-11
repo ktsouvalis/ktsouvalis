@@ -1,9 +1,8 @@
 # Hi it's Konstantinos
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=flat-square&logo=laravel&logoColor=red)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=flat-square&logo=oauth&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 I'm a **Laravel developer**. Here’s a bit more about me:
