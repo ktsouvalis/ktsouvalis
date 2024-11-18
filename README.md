@@ -4,7 +4,8 @@ I'm a  **Laravel Backend Developer**.
 
 ## 🔧 Tech Stack & Skills
 
-- **Back-end:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white) ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-3C3C3D?style=flat-square&logoColor=white)
+- **Back-end:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white) ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-3C3C3D?style=flat-square&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=electric-socket&logoColor=white)
+
 
 - **Database & Caching:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
